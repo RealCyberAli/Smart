@@ -1,0 +1,17 @@
+{
+  "name": "protector-matcher",
+  "main": "expo-router/entry",
+  "version": "1.0.0",
+  "dependencies": {
+    "expo": "~54.0.34",
+    "expo-sqlite": "~15.1.1",
+    "expo-router": "~6.0.22",
+    "expo-status-bar": "~3.0.9",
+    "expo-sharing": "~13.0.1",
+    "expo-file-system": "~17.0.1",
+    "react": "19.1.0",
+    "react-native": "0.81.5",
+    "react-native-safe-area-context": "~5.6.0",
+    "react-native-screens": "~4.16.0"
+  }
+}
