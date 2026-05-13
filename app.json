@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Protector Master",
+    "slug": "protector-matcher-app",
+    "version": "1.0.0",
+    "scheme": "protector-matcher",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.yourname.protectormaster"
+    },
+    "plugins": ["expo-router", "expo-sqlite"]
+  }
+}
+
